@@ -178,6 +178,9 @@ install_gui_app "android studio" "android-studio"
 # Better Terminal
 install_gui_app "iterm2" "iterm2"
 
+# Native Instruments plugins
+install_gui_app "native-access" "native-access"
+
 fancy_echo "Configuring Ruby ..."
 find_latest_ruby() {
   rbenv install -l | grep -v - | tail -1 | sed -e 's/^ *//'
