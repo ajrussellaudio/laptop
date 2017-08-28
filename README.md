@@ -4,7 +4,7 @@ This is a script to set up a macOS laptop for development.
 
 Specifically, _my_ macOS laptop!
 
-This is a fork of a [similar script by CodeClan](https://gothub.com/codeclan/laptop), itself a fork of a script by ThoughtBot
+This is a fork of a [similar script](https://gothub.com/codeclan/laptop) by [CodeClan](http://codeclan.com), which was itself a fork of a script by some little company called ThoughtBot.
 
 ## Install
 
@@ -23,7 +23,7 @@ sh mac 2>&1 | tee ~/laptop.log
 ### macOS tools:
 
 * [Homebrew](http://brew.sh/) for managing operating system libraries.
-* [Xcode](https://developer.apple.com/xcode/), which apparently you can't do anything on macOS without
+* [Xcode](https://developer.apple.com/xcode/), which apparently you can't do anything on macOS without.
 
 ### Command line tools:
 
@@ -63,9 +63,3 @@ sh mac 2>&1 | tee ~/laptop.log
 Finally, we remap the `§` key on your Mac's keyboard to the `#` symbol, which can make commenting Ruby marginally less painful...
 
 It should take less than 15 minutes to install (though this depends on your machine).
-
-## About CodeClan
-
-![CodeClan](https://codeclan.com/wp-content/uploads/2016/03/favicon.png)
-
-See [our website](https://codeclan.com) for more information.
