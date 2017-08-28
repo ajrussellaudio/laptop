@@ -139,6 +139,7 @@ brew "mongodb"
 
 # Fonts
 cask "font-opendyslexic"
+cask "fonts/font-source-code-pro"
 EOF
 
 fancy_echo "Installing Oh-My-Zsh ..."
