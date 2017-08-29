@@ -1,10 +1,8 @@
 # Laptop
 
-This is a script to set up a macOS laptop for development.
+A script to set up a macOS laptop for development. Specifically, _my_ macOS laptop!
 
-Specifically, _my_ macOS laptop!
-
-This is a fork of a [similar script](https://gothub.com/codeclan/laptop) by [CodeClan](http://codeclan.com), which was itself a fork of a script by some little company called ThoughtBot.
+This is a fork of a [similar script](https://gothub.com/codeclan/laptop) by [CodeClan](http://codeclan.com), which was itself a fork of a script by some wee company called ThoughtBot.
 
 ## Install
 
